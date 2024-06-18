@@ -35,7 +35,11 @@ Y-Axis (Sumbu Y): Jumlah
 Analisis: Barplot menunjukkan jumlah masing-masing kategori pekerjaan. Setiap kategori pekerjaan memiliki jumlah yang sama, yaitu 4. Ini menunjukkan distribusi yang merata di antara empat kategori pekerjaan yang dianalisis.
 
 Secara keseluruhan, data yang ditampilkan menunjukkan:
+
 •	Hubungan positif antara umur dan pendapatan.
+
 •	Distribusi pendapatan yang tersebar tanpa pola yang terlalu jelas.
+
 •	Distribusi umur yang normal tanpa outlier signifikan.
+
 •	Distribusi jumlah pekerjaan yang merata di antara empat kategori pekerjaan.
