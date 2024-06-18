@@ -3,6 +3,7 @@ Data ini menunjukan perbandingan antara pendapatan dan umur, memiliki tujuan pul
 Memahami pola hubungan antara variabel umur dan pendapatan, Mengetahui distribusi pendapatan berdasarkan kategori pekerjaan, dan Menganalisis distribusi umur dalam kelompok pekerjaan tertentu.
 
 Berdasarkan grafik yang ditampilkan pada gambar, berikut adalah analisis dari masing-masing plot:
+
 •	Scatter Plot
 X-Axis (Sumbu X): Umur
 Y-Axis (Sumbu Y): Pendapatan
